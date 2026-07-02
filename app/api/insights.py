@@ -1,30 +1,37 @@
 """
 Wealth Insights endpoints — the "local processing" layer.
 
-This is where spending pattern analysis, risk profiling, and investment
-recommendations get computed BEFORE anything touches the LLM. Keeps
-sensitive computation local; only sanitized outputs get passed downstream.
+All sensitive computation happens here via insights_engine. Output is
+anonymized (income bands, age bands, behavioral segments) — this is the
+only data that ever reaches the LLM layer.
 """
 
-from fastapi import APIRouter
+from fastapi import APIRouter, HTTPException
 from app.schemas.insights import InsightsRequest, InsightsResponse
+from app.services import insights_engine
 
 router = APIRouter()
+
+
+@router.get("/users")
+def list_demo_users():
+    """List available demo user IDs (from synthetic dataset)."""
+    try:
+        return {"users": insights_engine.get_user_ids()}
+    except FileNotFoundError as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 
 @router.post("/analyze", response_model=InsightsResponse)
 def analyze_spending(request: InsightsRequest):
     """
-    Takes raw (synthetic) transaction data for a user,
-    returns anonymized spending insights + recommendations.
-
-    TODO:
-    - Load synthetic transaction dataset (from IDBI sandbox)
-    - Compute spending category breakdown
-    - Compute simple risk profile / investment suggestion
-    - Strip any PII before returning
+    Analyze a user's (synthetic) transactions and return anonymized
+    spending insights + rule-based recommendations.
     """
-    return InsightsResponse(
-        summary="[stub] Spending analysis pending implementation.",
-        recommendations=[],
-    )
+    try:
+        result = insights_engine.analyze_user(request.user_id, request.lookback_days)
+        return result
+    except KeyError:
+        raise HTTPException(status_code=404, detail=f"User '{request.user_id}' not found")
+    except FileNotFoundError as e:
+        raise HTTPException(status_code=500, detail=str(e))

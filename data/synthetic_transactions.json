@@ -1,0 +1,3282 @@
+{
+  "user_001": {
+    "profile": {
+      "user_id": "user_001",
+      "alias": "Young Professional (High Spender)",
+      "age": 26,
+      "monthly_salary": 85000
+    },
+    "transactions": [
+      {
+        "txn_id": "user_001_txn_0001",
+        "date": "2026-05-01",
+        "time": "09:15:00",
+        "description": "SALARY CREDIT",
+        "category": "Salary",
+        "type": "CREDIT",
+        "amount": 85000,
+        "channel": "NEFT"
+      },
+      {
+        "txn_id": "user_001_txn_0008",
+        "date": "2026-05-01",
+        "time": "16:12:45",
+        "description": "APOLLO PHARMACY",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 1249,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0037",
+        "date": "2026-05-01",
+        "time": "17:20:31",
+        "description": "ELECTRICITY BILL BSES",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 1279,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_001_txn_0002",
+        "date": "2026-05-02",
+        "time": "06:00:00",
+        "description": "HOUSE RENT TRANSFER",
+        "category": "Rent",
+        "type": "DEBIT",
+        "amount": 15000,
+        "channel": "NEFT"
+      },
+      {
+        "txn_id": "user_001_txn_0007",
+        "date": "2026-05-02",
+        "time": "08:05:13",
+        "description": "NETFLIX SUBSCRIPTION",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 456,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0039",
+        "date": "2026-05-03",
+        "time": "09:46:31",
+        "description": "BROADBAND BILL AIRTEL",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 1973,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_001_txn_0023",
+        "date": "2026-05-03",
+        "time": "11:58:36",
+        "description": "METRO CARD RECHARGE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 694,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0014",
+        "date": "2026-05-03",
+        "time": "16:18:53",
+        "description": "MYNTRA PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 3107,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0019",
+        "date": "2026-05-03",
+        "time": "17:40:10",
+        "description": "1MG ORDER",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 1342,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0012",
+        "date": "2026-05-04",
+        "time": "13:54:22",
+        "description": "MYNTRA PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 3014,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0003",
+        "date": "2026-05-05",
+        "time": "06:00:00",
+        "description": "PERSONAL LOAN EMI",
+        "category": "EMI",
+        "type": "DEBIT",
+        "amount": 8500,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_001_txn_0011",
+        "date": "2026-05-05",
+        "time": "11:48:21",
+        "description": "METRO CARD RECHARGE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 346,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0041",
+        "date": "2026-05-06",
+        "time": "12:33:55",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 1050,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0020",
+        "date": "2026-05-06",
+        "time": "15:24:17",
+        "description": "OLA RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 669,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0004",
+        "date": "2026-05-07",
+        "time": "06:00:00",
+        "description": "SIP MUTUAL FUND",
+        "category": "Investment",
+        "type": "DEBIT",
+        "amount": 2000,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_001_txn_0024",
+        "date": "2026-05-07",
+        "time": "18:31:25",
+        "description": "AMAZON PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 6687,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0022",
+        "date": "2026-05-08",
+        "time": "21:02:51",
+        "description": "ZOMATO ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 485,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0035",
+        "date": "2026-05-10",
+        "time": "21:40:32",
+        "description": "1MG ORDER",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 1487,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0018",
+        "date": "2026-05-12",
+        "time": "13:13:42",
+        "description": "LOCAL KIRANA STORE",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 430,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0036",
+        "date": "2026-05-12",
+        "time": "20:10:34",
+        "description": "BIGBASKET",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 4326,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0017",
+        "date": "2026-05-13",
+        "time": "12:29:40",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 1927,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0027",
+        "date": "2026-05-13",
+        "time": "13:14:08",
+        "description": "BROADBAND BILL AIRTEL",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 1513,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_001_txn_0043",
+        "date": "2026-05-13",
+        "time": "18:41:23",
+        "description": "PETROL PUMP",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 1736,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0009",
+        "date": "2026-05-14",
+        "time": "11:28:37",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 676,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0033",
+        "date": "2026-05-15",
+        "time": "08:46:56",
+        "description": "LOCAL KIRANA STORE",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 906,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0044",
+        "date": "2026-05-15",
+        "time": "09:15:14",
+        "description": "ELECTRICITY BILL BSES",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 1459,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_001_txn_0025",
+        "date": "2026-05-15",
+        "time": "10:16:08",
+        "description": "1MG ORDER",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 781,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0026",
+        "date": "2026-05-18",
+        "time": "12:47:37",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 847,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0042",
+        "date": "2026-05-18",
+        "time": "20:46:44",
+        "description": "UBER RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 271,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0015",
+        "date": "2026-05-19",
+        "time": "11:45:04",
+        "description": "FLIPKART PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 704,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0045",
+        "date": "2026-05-19",
+        "time": "16:14:37",
+        "description": "SWIGGY ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 374,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0030",
+        "date": "2026-05-20",
+        "time": "15:33:16",
+        "description": "MYNTRA PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 4392,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0046",
+        "date": "2026-05-21",
+        "time": "08:14:04",
+        "description": "SAVINGS INTEREST CREDIT",
+        "category": "Interest",
+        "type": "CREDIT",
+        "amount": 557,
+        "channel": "AUTO_CREDIT"
+      },
+      {
+        "txn_id": "user_001_txn_0031",
+        "date": "2026-05-22",
+        "time": "19:07:43",
+        "description": "SWIGGY ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 822,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0006",
+        "date": "2026-05-22",
+        "time": "19:57:34",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 470,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0021",
+        "date": "2026-05-23",
+        "time": "16:14:43",
+        "description": "1MG ORDER",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 932,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0005",
+        "date": "2026-05-24",
+        "time": "12:15:14",
+        "description": "SWIGGY ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 319,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0013",
+        "date": "2026-05-24",
+        "time": "15:34:07",
+        "description": "ZOMATO ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 1028,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0028",
+        "date": "2026-05-25",
+        "time": "08:55:07",
+        "description": "RESTAURANT PAYMENT",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 1081,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0040",
+        "date": "2026-05-25",
+        "time": "10:08:42",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 900,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0034",
+        "date": "2026-05-25",
+        "time": "10:32:58",
+        "description": "ELECTRICITY BILL BSES",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 1631,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_001_txn_0016",
+        "date": "2026-05-25",
+        "time": "12:05:54",
+        "description": "OLA RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 272,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0032",
+        "date": "2026-05-25",
+        "time": "18:21:07",
+        "description": "METRO CARD RECHARGE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 432,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0010",
+        "date": "2026-05-25",
+        "time": "20:10:44",
+        "description": "SWIGGY ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 510,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0029",
+        "date": "2026-05-26",
+        "time": "18:27:38",
+        "description": "LOCAL KIRANA STORE",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 217,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0038",
+        "date": "2026-05-27",
+        "time": "20:19:15",
+        "description": "FLIPKART PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 771,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0047",
+        "date": "2026-06-01",
+        "time": "09:15:00",
+        "description": "SALARY CREDIT",
+        "category": "Salary",
+        "type": "CREDIT",
+        "amount": 85000,
+        "channel": "NEFT"
+      },
+      {
+        "txn_id": "user_001_txn_0073",
+        "date": "2026-06-01",
+        "time": "15:39:36",
+        "description": "RESTAURANT PAYMENT",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 3738,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0095",
+        "date": "2026-06-01",
+        "time": "18:12:25",
+        "description": "OLA RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 322,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0048",
+        "date": "2026-06-02",
+        "time": "06:00:00",
+        "description": "HOUSE RENT TRANSFER",
+        "category": "Rent",
+        "type": "DEBIT",
+        "amount": 15000,
+        "channel": "NEFT"
+      },
+      {
+        "txn_id": "user_001_txn_0066",
+        "date": "2026-06-02",
+        "time": "08:37:30",
+        "description": "AMAZON PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 3995,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0062",
+        "date": "2026-06-02",
+        "time": "10:24:00",
+        "description": "MYNTRA PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 4445,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0065",
+        "date": "2026-06-02",
+        "time": "17:47:34",
+        "description": "UBER RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 187,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0075",
+        "date": "2026-06-03",
+        "time": "22:15:23",
+        "description": "FLIPKART PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 2032,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0056",
+        "date": "2026-06-04",
+        "time": "08:25:46",
+        "description": "1MG ORDER",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 962,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0054",
+        "date": "2026-06-04",
+        "time": "18:27:22",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 1126,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0049",
+        "date": "2026-06-05",
+        "time": "06:00:00",
+        "description": "PERSONAL LOAN EMI",
+        "category": "EMI",
+        "type": "DEBIT",
+        "amount": 8500,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_001_txn_0078",
+        "date": "2026-06-05",
+        "time": "12:07:56",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 509,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0079",
+        "date": "2026-06-05",
+        "time": "12:18:38",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 599,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0072",
+        "date": "2026-06-05",
+        "time": "18:41:19",
+        "description": "MYNTRA PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 2465,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0052",
+        "date": "2026-06-05",
+        "time": "19:59:56",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 1009,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0067",
+        "date": "2026-06-06",
+        "time": "08:32:05",
+        "description": "ELECTRICITY BILL BSES",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 4648,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_001_txn_0058",
+        "date": "2026-06-06",
+        "time": "12:29:15",
+        "description": "NETFLIX SUBSCRIPTION",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 889,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0061",
+        "date": "2026-06-06",
+        "time": "14:31:30",
+        "description": "OLA RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 262,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0050",
+        "date": "2026-06-07",
+        "time": "06:00:00",
+        "description": "SIP MUTUAL FUND",
+        "category": "Investment",
+        "type": "DEBIT",
+        "amount": 2000,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_001_txn_0080",
+        "date": "2026-06-07",
+        "time": "18:40:54",
+        "description": "AMAZON PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 2311,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0071",
+        "date": "2026-06-07",
+        "time": "18:45:20",
+        "description": "METRO CARD RECHARGE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 407,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0057",
+        "date": "2026-06-08",
+        "time": "11:12:34",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 1175,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0053",
+        "date": "2026-06-08",
+        "time": "20:30:51",
+        "description": "BOOKMYSHOW TICKETS",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 1000,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0092",
+        "date": "2026-06-09",
+        "time": "10:50:44",
+        "description": "OLA RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 207,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0081",
+        "date": "2026-06-09",
+        "time": "22:58:54",
+        "description": "BOOKMYSHOW TICKETS",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 519,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0097",
+        "date": "2026-06-11",
+        "time": "08:07:56",
+        "description": "SAVINGS INTEREST CREDIT",
+        "category": "Interest",
+        "type": "CREDIT",
+        "amount": 587,
+        "channel": "AUTO_CREDIT"
+      },
+      {
+        "txn_id": "user_001_txn_0087",
+        "date": "2026-06-12",
+        "time": "11:43:15",
+        "description": "ZOMATO ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 775,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0094",
+        "date": "2026-06-12",
+        "time": "12:52:50",
+        "description": "SPOTIFY PREMIUM",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 178,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0086",
+        "date": "2026-06-14",
+        "time": "10:02:19",
+        "description": "BIGBASKET",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 2117,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0070",
+        "date": "2026-06-14",
+        "time": "18:37:36",
+        "description": "RESTAURANT PAYMENT",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 2247,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0082",
+        "date": "2026-06-14",
+        "time": "21:17:02",
+        "description": "1MG ORDER",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 307,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0059",
+        "date": "2026-06-15",
+        "time": "20:55:54",
+        "description": "RESTAURANT PAYMENT",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 2334,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0077",
+        "date": "2026-06-17",
+        "time": "08:42:52",
+        "description": "1MG ORDER",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 1381,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0051",
+        "date": "2026-06-17",
+        "time": "11:17:42",
+        "description": "RESTAURANT PAYMENT",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 2129,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0084",
+        "date": "2026-06-18",
+        "time": "08:07:04",
+        "description": "NETFLIX SUBSCRIPTION",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 936,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0085",
+        "date": "2026-06-18",
+        "time": "08:53:23",
+        "description": "BIGBASKET",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 2934,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0074",
+        "date": "2026-06-18",
+        "time": "11:32:16",
+        "description": "RESTAURANT PAYMENT",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 1017,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0069",
+        "date": "2026-06-19",
+        "time": "11:37:38",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 377,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0098",
+        "date": "2026-06-19",
+        "time": "12:02:06",
+        "description": "AMAZON REFUND",
+        "category": "Refund",
+        "type": "CREDIT",
+        "amount": 976,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0068",
+        "date": "2026-06-20",
+        "time": "09:43:55",
+        "description": "RESTAURANT PAYMENT",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 1341,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0083",
+        "date": "2026-06-21",
+        "time": "12:10:47",
+        "description": "BIGBASKET",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 2407,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0060",
+        "date": "2026-06-21",
+        "time": "16:53:00",
+        "description": "ZOMATO ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 1024,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0064",
+        "date": "2026-06-22",
+        "time": "19:31:09",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 575,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0089",
+        "date": "2026-06-24",
+        "time": "10:59:59",
+        "description": "APOLLO PHARMACY",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 598,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0099",
+        "date": "2026-06-24",
+        "time": "20:20:27",
+        "description": "UPI CASHBACK",
+        "category": "Cashback",
+        "type": "CREDIT",
+        "amount": 65,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0091",
+        "date": "2026-06-24",
+        "time": "22:21:50",
+        "description": "LOCAL KIRANA STORE",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 1127,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0096",
+        "date": "2026-06-25",
+        "time": "12:22:41",
+        "description": "RESTAURANT PAYMENT",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 2205,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0088",
+        "date": "2026-06-25",
+        "time": "16:56:55",
+        "description": "FLIPKART PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 2705,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0090",
+        "date": "2026-06-26",
+        "time": "20:11:56",
+        "description": "LOCAL KIRANA STORE",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 583,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0063",
+        "date": "2026-06-26",
+        "time": "20:29:18",
+        "description": "METRO CARD RECHARGE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 490,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0076",
+        "date": "2026-06-27",
+        "time": "16:45:19",
+        "description": "SPOTIFY PREMIUM",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 178,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0093",
+        "date": "2026-06-28",
+        "time": "15:14:12",
+        "description": "ZOMATO ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 899,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0055",
+        "date": "2026-06-28",
+        "time": "19:03:43",
+        "description": "SPOTIFY PREMIUM",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 178,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0100",
+        "date": "2026-07-01",
+        "time": "09:15:00",
+        "description": "SALARY CREDIT",
+        "category": "Salary",
+        "type": "CREDIT",
+        "amount": 85000,
+        "channel": "NEFT"
+      },
+      {
+        "txn_id": "user_001_txn_0101",
+        "date": "2026-07-02",
+        "time": "06:00:00",
+        "description": "HOUSE RENT TRANSFER",
+        "category": "Rent",
+        "type": "DEBIT",
+        "amount": 15000,
+        "channel": "NEFT"
+      },
+      {
+        "txn_id": "user_001_txn_0131",
+        "date": "2026-07-02",
+        "time": "11:53:26",
+        "description": "NETFLIX SUBSCRIPTION",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 561,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0130",
+        "date": "2026-07-03",
+        "time": "14:26:21",
+        "description": "UBER RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 476,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0102",
+        "date": "2026-07-05",
+        "time": "06:00:00",
+        "description": "PERSONAL LOAN EMI",
+        "category": "EMI",
+        "type": "DEBIT",
+        "amount": 8500,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_001_txn_0129",
+        "date": "2026-07-05",
+        "time": "10:14:24",
+        "description": "RESTAURANT PAYMENT",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 2786,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0103",
+        "date": "2026-07-07",
+        "time": "06:00:00",
+        "description": "SIP MUTUAL FUND",
+        "category": "Investment",
+        "type": "DEBIT",
+        "amount": 2000,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_001_txn_0128",
+        "date": "2026-07-08",
+        "time": "12:21:20",
+        "description": "PETROL PUMP",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 2759,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0116",
+        "date": "2026-07-08",
+        "time": "20:12:09",
+        "description": "PETROL PUMP",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 805,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0115",
+        "date": "2026-07-11",
+        "time": "09:52:48",
+        "description": "APOLLO PHARMACY",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 595,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0136",
+        "date": "2026-07-11",
+        "time": "18:43:51",
+        "description": "MYNTRA PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 2266,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0107",
+        "date": "2026-07-11",
+        "time": "18:54:07",
+        "description": "APOLLO PHARMACY",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 1359,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0106",
+        "date": "2026-07-12",
+        "time": "14:04:42",
+        "description": "UBER RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 702,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0119",
+        "date": "2026-07-13",
+        "time": "11:09:41",
+        "description": "BOOKMYSHOW TICKETS",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 1378,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0140",
+        "date": "2026-07-13",
+        "time": "13:13:29",
+        "description": "UPI CASHBACK",
+        "category": "Cashback",
+        "type": "CREDIT",
+        "amount": 39,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0111",
+        "date": "2026-07-13",
+        "time": "16:53:00",
+        "description": "PETROL PUMP",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 1434,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0138",
+        "date": "2026-07-13",
+        "time": "17:36:42",
+        "description": "AMAZON REFUND",
+        "category": "Refund",
+        "type": "CREDIT",
+        "amount": 235,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0139",
+        "date": "2026-07-14",
+        "time": "10:55:29",
+        "description": "SAVINGS INTEREST CREDIT",
+        "category": "Interest",
+        "type": "CREDIT",
+        "amount": 232,
+        "channel": "AUTO_CREDIT"
+      },
+      {
+        "txn_id": "user_001_txn_0112",
+        "date": "2026-07-14",
+        "time": "20:37:38",
+        "description": "UBER RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 543,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0124",
+        "date": "2026-07-14",
+        "time": "21:58:35",
+        "description": "ELECTRICITY BILL BSES",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 3006,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_001_txn_0121",
+        "date": "2026-07-15",
+        "time": "08:35:15",
+        "description": "ELECTRICITY BILL BSES",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 4916,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_001_txn_0122",
+        "date": "2026-07-15",
+        "time": "10:51:29",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 1602,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0113",
+        "date": "2026-07-15",
+        "time": "15:43:13",
+        "description": "SPOTIFY PREMIUM",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 178,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0133",
+        "date": "2026-07-16",
+        "time": "08:22:19",
+        "description": "MYNTRA PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 3576,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0135",
+        "date": "2026-07-16",
+        "time": "11:17:27",
+        "description": "OLA RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 405,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0117",
+        "date": "2026-07-16",
+        "time": "17:54:49",
+        "description": "OLA RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 188,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0108",
+        "date": "2026-07-17",
+        "time": "12:42:26",
+        "description": "PETROL PUMP",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 1484,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0105",
+        "date": "2026-07-17",
+        "time": "22:51:34",
+        "description": "SWIGGY ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 689,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0109",
+        "date": "2026-07-18",
+        "time": "10:12:26",
+        "description": "PETROL PUMP",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 2246,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0134",
+        "date": "2026-07-18",
+        "time": "19:47:34",
+        "description": "NETFLIX SUBSCRIPTION",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 838,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0104",
+        "date": "2026-07-19",
+        "time": "11:16:02",
+        "description": "MYNTRA PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 3408,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0123",
+        "date": "2026-07-20",
+        "time": "13:48:57",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 863,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0127",
+        "date": "2026-07-21",
+        "time": "11:17:28",
+        "description": "BOOKMYSHOW TICKETS",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 555,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0118",
+        "date": "2026-07-21",
+        "time": "17:12:45",
+        "description": "NETFLIX SUBSCRIPTION",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 769,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0114",
+        "date": "2026-07-22",
+        "time": "09:18:32",
+        "description": "LOCAL KIRANA STORE",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 847,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0110",
+        "date": "2026-07-22",
+        "time": "19:57:11",
+        "description": "MYNTRA PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 3058,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_001_txn_0132",
+        "date": "2026-07-23",
+        "time": "08:54:56",
+        "description": "BROADBAND BILL AIRTEL",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 1897,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_001_txn_0125",
+        "date": "2026-07-24",
+        "time": "21:30:28",
+        "description": "LOCAL KIRANA STORE",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 422,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0120",
+        "date": "2026-07-25",
+        "time": "14:14:11",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 1868,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0137",
+        "date": "2026-07-27",
+        "time": "15:58:08",
+        "description": "LOCAL KIRANA STORE",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 1180,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_001_txn_0126",
+        "date": "2026-07-27",
+        "time": "18:17:49",
+        "description": "OLA RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 558,
+        "channel": "UPI"
+      }
+    ]
+  },
+  "user_002": {
+    "profile": {
+      "user_id": "user_002",
+      "alias": "Mid-career Balanced Saver",
+      "age": 34,
+      "monthly_salary": 150000
+    },
+    "transactions": [
+      {
+        "txn_id": "user_002_txn_0001",
+        "date": "2026-05-01",
+        "time": "09:15:00",
+        "description": "SALARY CREDIT",
+        "category": "Salary",
+        "type": "CREDIT",
+        "amount": 150000,
+        "channel": "NEFT"
+      },
+      {
+        "txn_id": "user_002_txn_0026",
+        "date": "2026-05-01",
+        "time": "16:12:05",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 422,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0005",
+        "date": "2026-05-01",
+        "time": "19:34:03",
+        "description": "BOOKMYSHOW TICKETS",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 1200,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0037",
+        "date": "2026-05-02",
+        "time": "16:18:44",
+        "description": "ZOMATO ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 669,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0013",
+        "date": "2026-05-03",
+        "time": "17:44:53",
+        "description": "UBER RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 351,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0035",
+        "date": "2026-05-04",
+        "time": "21:12:18",
+        "description": "PETROL PUMP",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 841,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0002",
+        "date": "2026-05-05",
+        "time": "06:00:00",
+        "description": "HOME LOAN EMI",
+        "category": "EMI",
+        "type": "DEBIT",
+        "amount": 18000,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_002_txn_0008",
+        "date": "2026-05-05",
+        "time": "11:08:30",
+        "description": "APOLLO PHARMACY",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 853,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0024",
+        "date": "2026-05-06",
+        "time": "15:13:22",
+        "description": "AMAZON PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 4050,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0019",
+        "date": "2026-05-06",
+        "time": "19:33:41",
+        "description": "NETFLIX SUBSCRIPTION",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 321,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0003",
+        "date": "2026-05-07",
+        "time": "06:00:00",
+        "description": "SIP MUTUAL FUND",
+        "category": "Investment",
+        "type": "DEBIT",
+        "amount": 15000,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_002_txn_0009",
+        "date": "2026-05-07",
+        "time": "15:44:16",
+        "description": "BROADBAND BILL AIRTEL",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 1266,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_002_txn_0032",
+        "date": "2026-05-08",
+        "time": "09:46:12",
+        "description": "METRO CARD RECHARGE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 295,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0029",
+        "date": "2026-05-08",
+        "time": "14:44:15",
+        "description": "PETROL PUMP",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 959,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0006",
+        "date": "2026-05-08",
+        "time": "18:04:49",
+        "description": "FLIPKART PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 3842,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0021",
+        "date": "2026-05-09",
+        "time": "13:54:15",
+        "description": "BROADBAND BILL AIRTEL",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 1330,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_002_txn_0034",
+        "date": "2026-05-09",
+        "time": "19:37:48",
+        "description": "BOOKMYSHOW TICKETS",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 772,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0040",
+        "date": "2026-05-09",
+        "time": "21:30:07",
+        "description": "AMAZON REFUND",
+        "category": "Refund",
+        "type": "CREDIT",
+        "amount": 1269,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0022",
+        "date": "2026-05-09",
+        "time": "22:28:15",
+        "description": "RESTAURANT PAYMENT",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 1976,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0025",
+        "date": "2026-05-09",
+        "time": "22:38:44",
+        "description": "AMAZON PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 4437,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0036",
+        "date": "2026-05-10",
+        "time": "08:45:34",
+        "description": "LOCAL KIRANA STORE",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 189,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0011",
+        "date": "2026-05-10",
+        "time": "09:37:01",
+        "description": "LOCAL KIRANA STORE",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 750,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0031",
+        "date": "2026-05-11",
+        "time": "13:44:29",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 445,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0030",
+        "date": "2026-05-12",
+        "time": "15:35:33",
+        "description": "BROADBAND BILL AIRTEL",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 843,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_002_txn_0041",
+        "date": "2026-05-16",
+        "time": "09:36:40",
+        "description": "UPI CASHBACK",
+        "category": "Cashback",
+        "type": "CREDIT",
+        "amount": 72,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0039",
+        "date": "2026-05-16",
+        "time": "15:28:21",
+        "description": "UPI CASHBACK",
+        "category": "Cashback",
+        "type": "CREDIT",
+        "amount": 27,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0027",
+        "date": "2026-05-16",
+        "time": "16:48:15",
+        "description": "NETFLIX SUBSCRIPTION",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 510,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0010",
+        "date": "2026-05-20",
+        "time": "17:47:45",
+        "description": "LOCAL KIRANA STORE",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 180,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0023",
+        "date": "2026-05-20",
+        "time": "18:24:21",
+        "description": "BROADBAND BILL AIRTEL",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 528,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_002_txn_0018",
+        "date": "2026-05-21",
+        "time": "22:53:29",
+        "description": "FLIPKART PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 2917,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0016",
+        "date": "2026-05-22",
+        "time": "13:04:32",
+        "description": "NETFLIX SUBSCRIPTION",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 490,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0012",
+        "date": "2026-05-22",
+        "time": "22:24:25",
+        "description": "BROADBAND BILL AIRTEL",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 1440,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_002_txn_0028",
+        "date": "2026-05-23",
+        "time": "15:28:50",
+        "description": "1MG ORDER",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 222,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0014",
+        "date": "2026-05-23",
+        "time": "20:19:54",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 1090,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0007",
+        "date": "2026-05-25",
+        "time": "08:15:12",
+        "description": "ZOMATO ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 612,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0020",
+        "date": "2026-05-25",
+        "time": "15:29:27",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 867,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0033",
+        "date": "2026-05-25",
+        "time": "19:11:12",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 403,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0004",
+        "date": "2026-05-25",
+        "time": "21:26:16",
+        "description": "METRO CARD RECHARGE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 450,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0015",
+        "date": "2026-05-26",
+        "time": "17:50:02",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 651,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0017",
+        "date": "2026-05-28",
+        "time": "14:52:31",
+        "description": "SWIGGY ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 197,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0038",
+        "date": "2026-05-28",
+        "time": "20:31:06",
+        "description": "1MG ORDER",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 1335,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0042",
+        "date": "2026-06-01",
+        "time": "09:15:00",
+        "description": "SALARY CREDIT",
+        "category": "Salary",
+        "type": "CREDIT",
+        "amount": 150000,
+        "channel": "NEFT"
+      },
+      {
+        "txn_id": "user_002_txn_0049",
+        "date": "2026-06-02",
+        "time": "17:47:06",
+        "description": "APOLLO PHARMACY",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 1145,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0068",
+        "date": "2026-06-03",
+        "time": "13:16:20",
+        "description": "SPOTIFY PREMIUM",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 119,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0073",
+        "date": "2026-06-04",
+        "time": "08:40:38",
+        "description": "UPI CASHBACK",
+        "category": "Cashback",
+        "type": "CREDIT",
+        "amount": 82,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0058",
+        "date": "2026-06-04",
+        "time": "15:44:19",
+        "description": "SPOTIFY PREMIUM",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 119,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0043",
+        "date": "2026-06-05",
+        "time": "06:00:00",
+        "description": "HOME LOAN EMI",
+        "category": "EMI",
+        "type": "DEBIT",
+        "amount": 18000,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_002_txn_0074",
+        "date": "2026-06-06",
+        "time": "12:35:00",
+        "description": "SAVINGS INTEREST CREDIT",
+        "category": "Interest",
+        "type": "CREDIT",
+        "amount": 399,
+        "channel": "AUTO_CREDIT"
+      },
+      {
+        "txn_id": "user_002_txn_0051",
+        "date": "2026-06-06",
+        "time": "16:04:10",
+        "description": "OLA RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 101,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0044",
+        "date": "2026-06-07",
+        "time": "06:00:00",
+        "description": "SIP MUTUAL FUND",
+        "category": "Investment",
+        "type": "DEBIT",
+        "amount": 15000,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_002_txn_0061",
+        "date": "2026-06-08",
+        "time": "18:53:55",
+        "description": "RESTAURANT PAYMENT",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 1608,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0047",
+        "date": "2026-06-08",
+        "time": "20:33:24",
+        "description": "APOLLO PHARMACY",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 623,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0075",
+        "date": "2026-06-08",
+        "time": "21:58:07",
+        "description": "AMAZON REFUND",
+        "category": "Refund",
+        "type": "CREDIT",
+        "amount": 800,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0072",
+        "date": "2026-06-09",
+        "time": "16:08:59",
+        "description": "UBER RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 215,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0054",
+        "date": "2026-06-09",
+        "time": "20:50:40",
+        "description": "OLA RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 306,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0048",
+        "date": "2026-06-10",
+        "time": "21:37:27",
+        "description": "SPOTIFY PREMIUM",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 119,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0055",
+        "date": "2026-06-14",
+        "time": "09:34:14",
+        "description": "UBER RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 359,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0060",
+        "date": "2026-06-14",
+        "time": "19:20:38",
+        "description": "ZOMATO ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 288,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0070",
+        "date": "2026-06-15",
+        "time": "14:03:12",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 633,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0065",
+        "date": "2026-06-16",
+        "time": "13:26:21",
+        "description": "RESTAURANT PAYMENT",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 1074,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0063",
+        "date": "2026-06-16",
+        "time": "16:41:28",
+        "description": "LOCAL KIRANA STORE",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 741,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0059",
+        "date": "2026-06-17",
+        "time": "16:31:28",
+        "description": "METRO CARD RECHARGE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 224,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0046",
+        "date": "2026-06-18",
+        "time": "20:26:38",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 975,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0064",
+        "date": "2026-06-19",
+        "time": "14:40:52",
+        "description": "LOCAL KIRANA STORE",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 444,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0057",
+        "date": "2026-06-20",
+        "time": "19:52:36",
+        "description": "PETROL PUMP",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 1882,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0050",
+        "date": "2026-06-21",
+        "time": "11:16:42",
+        "description": "UBER RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 132,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0067",
+        "date": "2026-06-22",
+        "time": "14:52:48",
+        "description": "PETROL PUMP",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 1325,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0053",
+        "date": "2026-06-23",
+        "time": "12:44:55",
+        "description": "PETROL PUMP",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 1181,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0052",
+        "date": "2026-06-23",
+        "time": "17:30:18",
+        "description": "SPOTIFY PREMIUM",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 119,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0071",
+        "date": "2026-06-25",
+        "time": "15:40:28",
+        "description": "APOLLO PHARMACY",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 948,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0062",
+        "date": "2026-06-25",
+        "time": "18:52:17",
+        "description": "SWIGGY ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 409,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0045",
+        "date": "2026-06-26",
+        "time": "17:19:05",
+        "description": "BIGBASKET",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 2985,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0056",
+        "date": "2026-06-27",
+        "time": "10:04:03",
+        "description": "METRO CARD RECHARGE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 250,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0066",
+        "date": "2026-06-28",
+        "time": "10:21:26",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 1102,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0069",
+        "date": "2026-06-28",
+        "time": "16:52:00",
+        "description": "MYNTRA PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 2144,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0101",
+        "date": "2026-07-01",
+        "time": "08:20:50",
+        "description": "PETROL PUMP",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 584,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0076",
+        "date": "2026-07-01",
+        "time": "09:15:00",
+        "description": "SALARY CREDIT",
+        "category": "Salary",
+        "type": "CREDIT",
+        "amount": 150000,
+        "channel": "NEFT"
+      },
+      {
+        "txn_id": "user_002_txn_0106",
+        "date": "2026-07-01",
+        "time": "22:51:29",
+        "description": "SAVINGS INTEREST CREDIT",
+        "category": "Interest",
+        "type": "CREDIT",
+        "amount": 556,
+        "channel": "AUTO_CREDIT"
+      },
+      {
+        "txn_id": "user_002_txn_0098",
+        "date": "2026-07-02",
+        "time": "17:04:15",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 719,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0077",
+        "date": "2026-07-05",
+        "time": "06:00:00",
+        "description": "HOME LOAN EMI",
+        "category": "EMI",
+        "type": "DEBIT",
+        "amount": 18000,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_002_txn_0094",
+        "date": "2026-07-05",
+        "time": "09:30:50",
+        "description": "1MG ORDER",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 1460,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0105",
+        "date": "2026-07-05",
+        "time": "11:29:40",
+        "description": "BROADBAND BILL AIRTEL",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 753,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_002_txn_0078",
+        "date": "2026-07-07",
+        "time": "06:00:00",
+        "description": "SIP MUTUAL FUND",
+        "category": "Investment",
+        "type": "DEBIT",
+        "amount": 15000,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_002_txn_0081",
+        "date": "2026-07-08",
+        "time": "15:35:09",
+        "description": "BOOKMYSHOW TICKETS",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 645,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0099",
+        "date": "2026-07-08",
+        "time": "19:05:27",
+        "description": "PETROL PUMP",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 1968,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0084",
+        "date": "2026-07-09",
+        "time": "21:00:18",
+        "description": "ELECTRICITY BILL BSES",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 2760,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_002_txn_0089",
+        "date": "2026-07-11",
+        "time": "19:30:45",
+        "description": "ZOMATO ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 652,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0102",
+        "date": "2026-07-12",
+        "time": "14:09:15",
+        "description": "FLIPKART PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 2265,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0090",
+        "date": "2026-07-13",
+        "time": "18:50:52",
+        "description": "MYNTRA PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 2130,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0093",
+        "date": "2026-07-15",
+        "time": "08:46:09",
+        "description": "ELECTRICITY BILL BSES",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 1907,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_002_txn_0087",
+        "date": "2026-07-15",
+        "time": "22:20:55",
+        "description": "MYNTRA PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 972,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0091",
+        "date": "2026-07-16",
+        "time": "08:08:32",
+        "description": "BIGBASKET",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 2913,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0086",
+        "date": "2026-07-16",
+        "time": "13:21:35",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 819,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0082",
+        "date": "2026-07-17",
+        "time": "19:56:08",
+        "description": "APOLLO PHARMACY",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 1057,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0107",
+        "date": "2026-07-18",
+        "time": "10:04:28",
+        "description": "SAVINGS INTEREST CREDIT",
+        "category": "Interest",
+        "type": "CREDIT",
+        "amount": 575,
+        "channel": "AUTO_CREDIT"
+      },
+      {
+        "txn_id": "user_002_txn_0088",
+        "date": "2026-07-19",
+        "time": "14:14:54",
+        "description": "OLA RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 371,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0085",
+        "date": "2026-07-19",
+        "time": "18:31:55",
+        "description": "BROADBAND BILL AIRTEL",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 648,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_002_txn_0095",
+        "date": "2026-07-20",
+        "time": "19:25:41",
+        "description": "AMAZON PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 677,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0097",
+        "date": "2026-07-21",
+        "time": "19:56:48",
+        "description": "AMAZON PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 2593,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0103",
+        "date": "2026-07-22",
+        "time": "20:11:10",
+        "description": "BROADBAND BILL AIRTEL",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 674,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_002_txn_0080",
+        "date": "2026-07-23",
+        "time": "12:26:53",
+        "description": "ELECTRICITY BILL BSES",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 2103,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_002_txn_0100",
+        "date": "2026-07-23",
+        "time": "21:06:28",
+        "description": "1MG ORDER",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 416,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0083",
+        "date": "2026-07-25",
+        "time": "20:54:26",
+        "description": "METRO CARD RECHARGE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 302,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0079",
+        "date": "2026-07-27",
+        "time": "10:31:59",
+        "description": "1MG ORDER",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 1132,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0092",
+        "date": "2026-07-28",
+        "time": "09:55:54",
+        "description": "AMAZON PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 2369,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_002_txn_0104",
+        "date": "2026-07-28",
+        "time": "14:39:43",
+        "description": "APOLLO PHARMACY",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 403,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_002_txn_0096",
+        "date": "2026-07-28",
+        "time": "18:54:34",
+        "description": "AMAZON PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 2086,
+        "channel": "CARD"
+      }
+    ]
+  },
+  "user_003": {
+    "profile": {
+      "user_id": "user_003",
+      "alias": "Conservative Low-risk Saver",
+      "age": 45,
+      "monthly_salary": 120000
+    },
+    "transactions": [
+      {
+        "txn_id": "user_003_txn_0001",
+        "date": "2026-05-01",
+        "time": "09:15:00",
+        "description": "SALARY CREDIT",
+        "category": "Salary",
+        "type": "CREDIT",
+        "amount": 120000,
+        "channel": "NEFT"
+      },
+      {
+        "txn_id": "user_003_txn_0013",
+        "date": "2026-05-03",
+        "time": "22:18:20",
+        "description": "BIGBASKET",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 1658,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0020",
+        "date": "2026-05-04",
+        "time": "15:23:43",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 566,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0002",
+        "date": "2026-05-05",
+        "time": "06:00:00",
+        "description": "HOME LOAN EMI",
+        "category": "EMI",
+        "type": "DEBIT",
+        "amount": 18000,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_003_txn_0003",
+        "date": "2026-05-07",
+        "time": "06:00:00",
+        "description": "SIP MUTUAL FUND",
+        "category": "Investment",
+        "type": "DEBIT",
+        "amount": 5000,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_003_txn_0014",
+        "date": "2026-05-07",
+        "time": "10:50:34",
+        "description": "LOCAL KIRANA STORE",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 499,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0022",
+        "date": "2026-05-08",
+        "time": "15:01:39",
+        "description": "SAVINGS INTEREST CREDIT",
+        "category": "Interest",
+        "type": "CREDIT",
+        "amount": 548,
+        "channel": "AUTO_CREDIT"
+      },
+      {
+        "txn_id": "user_003_txn_0007",
+        "date": "2026-05-09",
+        "time": "08:36:55",
+        "description": "MYNTRA PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 1550,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_003_txn_0019",
+        "date": "2026-05-12",
+        "time": "09:50:25",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 175,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0006",
+        "date": "2026-05-12",
+        "time": "17:18:44",
+        "description": "BROADBAND BILL AIRTEL",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 556,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_003_txn_0005",
+        "date": "2026-05-13",
+        "time": "21:30:06",
+        "description": "UBER RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 136,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0004",
+        "date": "2026-05-14",
+        "time": "19:16:29",
+        "description": "1MG ORDER",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 909,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0015",
+        "date": "2026-05-17",
+        "time": "16:58:17",
+        "description": "FLIPKART PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 2361,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_003_txn_0023",
+        "date": "2026-05-18",
+        "time": "11:41:04",
+        "description": "FD CREATION",
+        "category": "Investment",
+        "type": "DEBIT",
+        "amount": 25000,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_003_txn_0021",
+        "date": "2026-05-19",
+        "time": "14:52:40",
+        "description": "METRO CARD RECHARGE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 337,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0008",
+        "date": "2026-05-20",
+        "time": "19:31:53",
+        "description": "ZOMATO ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 453,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0011",
+        "date": "2026-05-21",
+        "time": "09:57:40",
+        "description": "BIGBASKET",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 1481,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0010",
+        "date": "2026-05-21",
+        "time": "11:39:16",
+        "description": "OLA RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 236,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0009",
+        "date": "2026-05-25",
+        "time": "20:14:38",
+        "description": "PETROL PUMP",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 1192,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_003_txn_0017",
+        "date": "2026-05-26",
+        "time": "09:29:04",
+        "description": "AMAZON PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 673,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_003_txn_0012",
+        "date": "2026-05-26",
+        "time": "15:02:37",
+        "description": "PETROL PUMP",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 733,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_003_txn_0016",
+        "date": "2026-05-27",
+        "time": "15:51:18",
+        "description": "METRO CARD RECHARGE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 297,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0018",
+        "date": "2026-05-28",
+        "time": "18:46:43",
+        "description": "OLA RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 310,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0024",
+        "date": "2026-06-01",
+        "time": "09:15:00",
+        "description": "SALARY CREDIT",
+        "category": "Salary",
+        "type": "CREDIT",
+        "amount": 120000,
+        "channel": "NEFT"
+      },
+      {
+        "txn_id": "user_003_txn_0032",
+        "date": "2026-06-02",
+        "time": "19:23:13",
+        "description": "METRO CARD RECHARGE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 233,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0046",
+        "date": "2026-06-02",
+        "time": "19:50:58",
+        "description": "APOLLO PHARMACY",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 742,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0049",
+        "date": "2026-06-03",
+        "time": "22:05:20",
+        "description": "SPOTIFY PREMIUM",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 83,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_003_txn_0041",
+        "date": "2026-06-04",
+        "time": "18:55:01",
+        "description": "LOCAL KIRANA STORE",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 135,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0025",
+        "date": "2026-06-05",
+        "time": "06:00:00",
+        "description": "HOME LOAN EMI",
+        "category": "EMI",
+        "type": "DEBIT",
+        "amount": 18000,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_003_txn_0029",
+        "date": "2026-06-05",
+        "time": "14:29:23",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 524,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0037",
+        "date": "2026-06-05",
+        "time": "20:36:13",
+        "description": "OLA RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 87,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0026",
+        "date": "2026-06-07",
+        "time": "06:00:00",
+        "description": "SIP MUTUAL FUND",
+        "category": "Investment",
+        "type": "DEBIT",
+        "amount": 5000,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_003_txn_0038",
+        "date": "2026-06-07",
+        "time": "17:13:52",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 630,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0043",
+        "date": "2026-06-09",
+        "time": "08:08:47",
+        "description": "LOCAL KIRANA STORE",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 276,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0050",
+        "date": "2026-06-09",
+        "time": "17:40:37",
+        "description": "AMAZON REFUND",
+        "category": "Refund",
+        "type": "CREDIT",
+        "amount": 913,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0028",
+        "date": "2026-06-10",
+        "time": "15:07:06",
+        "description": "ZOMATO ORDER",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 195,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0047",
+        "date": "2026-06-10",
+        "time": "15:41:01",
+        "description": "ELECTRICITY BILL BSES",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 675,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_003_txn_0034",
+        "date": "2026-06-12",
+        "time": "08:25:17",
+        "description": "1MG ORDER",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 313,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0030",
+        "date": "2026-06-14",
+        "time": "17:47:46",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 250,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0051",
+        "date": "2026-06-18",
+        "time": "16:18:29",
+        "description": "FD CREATION",
+        "category": "Investment",
+        "type": "DEBIT",
+        "amount": 25000,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_003_txn_0045",
+        "date": "2026-06-19",
+        "time": "09:28:32",
+        "description": "ELECTRICITY BILL BSES",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 979,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_003_txn_0031",
+        "date": "2026-06-21",
+        "time": "09:53:31",
+        "description": "NETFLIX SUBSCRIPTION",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 333,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_003_txn_0027",
+        "date": "2026-06-21",
+        "time": "14:07:08",
+        "description": "PETROL PUMP",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 398,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_003_txn_0036",
+        "date": "2026-06-21",
+        "time": "17:01:03",
+        "description": "1MG ORDER",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 856,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0044",
+        "date": "2026-06-24",
+        "time": "09:30:28",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 848,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0039",
+        "date": "2026-06-25",
+        "time": "10:50:57",
+        "description": "AMAZON PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 2171,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_003_txn_0042",
+        "date": "2026-06-26",
+        "time": "20:15:37",
+        "description": "FLIPKART PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 1049,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_003_txn_0040",
+        "date": "2026-06-28",
+        "time": "10:08:34",
+        "description": "METRO CARD RECHARGE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 193,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0033",
+        "date": "2026-06-28",
+        "time": "13:06:43",
+        "description": "OLA RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 160,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0048",
+        "date": "2026-06-28",
+        "time": "14:27:43",
+        "description": "BOOKMYSHOW TICKETS",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 278,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0035",
+        "date": "2026-06-28",
+        "time": "21:29:05",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 743,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0052",
+        "date": "2026-07-01",
+        "time": "09:15:00",
+        "description": "SALARY CREDIT",
+        "category": "Salary",
+        "type": "CREDIT",
+        "amount": 120000,
+        "channel": "NEFT"
+      },
+      {
+        "txn_id": "user_003_txn_0069",
+        "date": "2026-07-01",
+        "time": "10:17:44",
+        "description": "METRO CARD RECHARGE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 300,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0075",
+        "date": "2026-07-02",
+        "time": "18:05:17",
+        "description": "APOLLO PHARMACY",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 431,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0071",
+        "date": "2026-07-03",
+        "time": "10:47:40",
+        "description": "MYNTRA PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 2051,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_003_txn_0060",
+        "date": "2026-07-03",
+        "time": "14:06:47",
+        "description": "RESTAURANT PAYMENT",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 1366,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0077",
+        "date": "2026-07-04",
+        "time": "13:27:07",
+        "description": "SAVINGS INTEREST CREDIT",
+        "category": "Interest",
+        "type": "CREDIT",
+        "amount": 277,
+        "channel": "AUTO_CREDIT"
+      },
+      {
+        "txn_id": "user_003_txn_0053",
+        "date": "2026-07-05",
+        "time": "06:00:00",
+        "description": "HOME LOAN EMI",
+        "category": "EMI",
+        "type": "DEBIT",
+        "amount": 18000,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_003_txn_0073",
+        "date": "2026-07-06",
+        "time": "13:19:46",
+        "description": "AMAZON PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 1277,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_003_txn_0054",
+        "date": "2026-07-07",
+        "time": "06:00:00",
+        "description": "SIP MUTUAL FUND",
+        "category": "Investment",
+        "type": "DEBIT",
+        "amount": 5000,
+        "channel": "AUTO_DEBIT"
+      },
+      {
+        "txn_id": "user_003_txn_0064",
+        "date": "2026-07-10",
+        "time": "13:06:36",
+        "description": "APOLLO PHARMACY",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 478,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0058",
+        "date": "2026-07-11",
+        "time": "14:20:42",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 372,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0070",
+        "date": "2026-07-12",
+        "time": "08:11:55",
+        "description": "AMAZON PURCHASE",
+        "category": "Shopping",
+        "type": "DEBIT",
+        "amount": 681,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_003_txn_0066",
+        "date": "2026-07-12",
+        "time": "09:48:17",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 473,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0057",
+        "date": "2026-07-14",
+        "time": "13:52:29",
+        "description": "OLA RIDE",
+        "category": "Transport",
+        "type": "DEBIT",
+        "amount": 168,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0062",
+        "date": "2026-07-14",
+        "time": "13:55:42",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 996,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0078",
+        "date": "2026-07-16",
+        "time": "16:42:19",
+        "description": "FD CREATION",
+        "category": "Investment",
+        "type": "DEBIT",
+        "amount": 10000,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_003_txn_0061",
+        "date": "2026-07-18",
+        "time": "08:37:35",
+        "description": "BIGBASKET",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 1333,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0068",
+        "date": "2026-07-18",
+        "time": "08:38:59",
+        "description": "1MG ORDER",
+        "category": "Healthcare",
+        "type": "DEBIT",
+        "amount": 739,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0074",
+        "date": "2026-07-20",
+        "time": "09:56:03",
+        "description": "BROADBAND BILL AIRTEL",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 458,
+        "channel": "NETBANKING"
+      },
+      {
+        "txn_id": "user_003_txn_0076",
+        "date": "2026-07-20",
+        "time": "15:26:17",
+        "description": "UPI CASHBACK",
+        "category": "Cashback",
+        "type": "CREDIT",
+        "amount": 29,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0065",
+        "date": "2026-07-22",
+        "time": "15:14:54",
+        "description": "BIGBASKET",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 539,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0059",
+        "date": "2026-07-22",
+        "time": "22:30:04",
+        "description": "BIGBASKET",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 510,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0072",
+        "date": "2026-07-24",
+        "time": "16:13:24",
+        "description": "RESTAURANT PAYMENT",
+        "category": "Food & Dining",
+        "type": "DEBIT",
+        "amount": 897,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0056",
+        "date": "2026-07-24",
+        "time": "21:13:27",
+        "description": "MOBILE RECHARGE JIO",
+        "category": "Utilities",
+        "type": "DEBIT",
+        "amount": 408,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0055",
+        "date": "2026-07-26",
+        "time": "19:07:54",
+        "description": "BLINKIT",
+        "category": "Groceries",
+        "type": "DEBIT",
+        "amount": 736,
+        "channel": "UPI"
+      },
+      {
+        "txn_id": "user_003_txn_0067",
+        "date": "2026-07-28",
+        "time": "16:49:52",
+        "description": "NETFLIX SUBSCRIPTION",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 335,
+        "channel": "CARD"
+      },
+      {
+        "txn_id": "user_003_txn_0063",
+        "date": "2026-07-28",
+        "time": "22:46:03",
+        "description": "NETFLIX SUBSCRIPTION",
+        "category": "Entertainment",
+        "type": "DEBIT",
+        "amount": 444,
+        "channel": "CARD"
+      }
+    ]
+  }
+}
