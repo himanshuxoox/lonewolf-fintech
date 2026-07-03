@@ -81,3 +81,15 @@ export async function sendChat(
   if (!res.ok) throw new Error("Advisor is unreachable right now");
   return res.json();
 }
+
+export interface SpendPoint {
+  date: string;
+  amount: number;
+}
+
+export async function fetchTimeseries(userId: string): Promise<SpendPoint[]> {
+  const res = await fetch(`${BASE}/api/insights/timeseries/${userId}`);
+  if (!res.ok) throw new Error("Could not load spend timeseries");
+  const data = await res.json();
+  return data.series;
+}
