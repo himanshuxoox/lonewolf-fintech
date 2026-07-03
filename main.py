@@ -10,6 +10,15 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.api import chat, insights
 
+# Safety net for fresh deploys: generate the synthetic dataset if it's
+# missing (e.g. ephemeral filesystem on Render). Idempotent and fast.
+from pathlib import Path
+
+_DATA = Path(__file__).parent / "data" / "synthetic_transactions.json"
+if not _DATA.exists():
+    from app.services.data_generator import main as _gen
+    _gen()
+
 app = FastAPI(
     title="LoneWolf FinTech - AI Wealth Advisor",
     description="AI-powered Digital Wealth Management Avatar for IDBI Innovate 2026",
