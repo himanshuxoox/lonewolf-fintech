@@ -22,6 +22,23 @@ def list_demo_users():
         raise HTTPException(status_code=500, detail=str(e))
 
 
+@router.get("/transactions/{user_id}")
+def recent_transactions(user_id: str, limit: int = 5):
+    """
+    Recent transactions for the dashboard UI. This stays inside the
+    banking app (like any account statement) — it is NOT sent to the LLM.
+    """
+    try:
+        dataset = insights_engine.load_dataset()
+    except FileNotFoundError as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    if user_id not in dataset:
+        raise HTTPException(status_code=404, detail=f"User '{user_id}' not found")
+    txns = dataset[user_id]["transactions"]
+    recent = sorted(txns, key=lambda t: (t["date"], t["time"]), reverse=True)[:limit]
+    return {"transactions": recent}
+
+
 @router.post("/analyze", response_model=InsightsResponse)
 def analyze_spending(request: InsightsRequest):
     """
