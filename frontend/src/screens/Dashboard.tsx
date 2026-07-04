@@ -2,6 +2,10 @@ import { motion } from "framer-motion";
 import type { Insights } from "../api";
 import { AnimatedCounter } from "../components/AnimatedCounter";
 import { Avatar } from "../components/Avatar";
+import reduceSpendingImg from "../assets/ReduceSpending.png";
+import startSipImg from "../assets/Start_SIP.png";
+import checkExpensesImg from "../assets/Check_Expenses.png";
+import financialGoalsImg from "../assets/Financial_Goals.png";
 
 const USER_LABELS: Record<string, string> = {
   user_001: "Aarav · 20s",
@@ -10,10 +14,10 @@ const USER_LABELS: Record<string, string> = {
 };
 
 const QUICK_ACTIONS = [
-  { icon: "👛", label: "Reduce Spending", prompt: "How can I reduce my spending?" },
-  { icon: "🌱", label: "Start SIP", prompt: "Should I start a SIP?" },
-  { icon: "◔", label: "Check Expenses", prompt: "Mera kharcha kaha ja raha hai?" },
-  { icon: "🎯", label: "Financial Goals", prompt: "Help me set financial goals" },
+  { icon: reduceSpendingImg, label: "Reduce Spending", prompt: "How can I reduce my spending?" },
+  { icon: startSipImg, label: "Start SIP", prompt: "Should I start a SIP?" },
+  { icon: checkExpensesImg, label: "Check Expenses", prompt: "Mera kharcha kaha ja raha hai?" },
+  { icon: financialGoalsImg, label: "Financial Goals", prompt: "Help me set financial goals" },
 ];
 
 const fadeUp = {
@@ -127,7 +131,7 @@ export function Dashboard({
         <div className="qa-grid">
           {QUICK_ACTIONS.map((q) => (
             <button key={q.label} className="qa-card" onClick={() => onAsk(q.prompt)}>
-              <span className="qa-icon">{q.icon}</span>
+             <img className="qa-icon" src={q.icon} alt="" />
               <span className="qa-label">{q.label}</span>
             </button>
           ))}
