@@ -10,7 +10,11 @@
 [![API Docs](https://img.shields.io/badge/API_Docs-FastAPI_Swagger-0b5d4d?style=for-the-badge)](https://lonewolf-fintech-api.onrender.com/docs)
 [![Demo Video](https://img.shields.io/badge/Demo_Video-3_min-e87722?style=for-the-badge)](#-demo-video)
 
-https://github.com/himanshuxoox/lonewolf-fintech/raw/main/docs/screenshots/demo.mp4
+
+
+https://github.com/user-attachments/assets/8cde5320-8c2e-4989-b4e4-6b986154962b
+
+
 
 </div>
 
