@@ -10,7 +10,7 @@
 [![API Docs](https://img.shields.io/badge/API_Docs-FastAPI_Swagger-0b5d4d?style=for-the-badge)](https://lonewolf-fintech-api.onrender.com/docs)
 [![Demo Video](https://img.shields.io/badge/Demo_Video-3_min-e87722?style=for-the-badge)](#-demo-video)
 
-<img src="docs/screenshots/dashboard.png" alt="Dhan Mitra Dashboard" width="260"/>
+<url src="https://github.com/himanshuxoox/lonewolf-fintech/raw/main/docs/demo.mp4" alt="Dhan Mitra Dashboard" width="260"/>
 
 </div>
 
